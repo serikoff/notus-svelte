@@ -4,3 +4,6 @@
 .DS_Store
 
 commit.sh
+.idea/modules.xml
+.idea/notus-svelte.iml
+.idea/vcs.xml
